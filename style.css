@@ -8,3 +8,13 @@ body {
     height: 500vh;
     background-image: linear-gradient(to bottom, red, yellow, green, aqua, blue, indigo);
 }
+
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+nav button {
+    padding: 5px 10px;
+    cursor: pointer;
+}
